@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "host": "https://adb-2824599842151189.9.azuredatabricks.net",
+  "remote_path": "/Workspace/Users/aaloliveira@toyota.com.br/inventarioyard",
+  "last_modified_times": {
+    ".gitattributes": "2026-03-23T11:03:33.5624505-03:00",
+    "README.md": "2026-03-23T11:03:33.5447875-03:00",
+    "app.py": "2026-03-23T11:32:34.3549456-03:00",
+    "app.yaml": "2026-03-23T11:16:57.4629164-03:00",
+    "requirements.txt": "2026-03-23T11:16:58.5393327-03:00"
+  },
+  "local_to_remote_names": {
+    ".gitattributes": ".gitattributes",
+    "README.md": "README.md",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  },
+  "remote_to_local_names": {
+    ".gitattributes": ".gitattributes",
+    "README.md": "README.md",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "requirements.txt": "requirements.txt"
+  }
+}
